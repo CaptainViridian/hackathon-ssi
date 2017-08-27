@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Diressom</string>
+    <string name="title_activity_listening">listening</string>
 </resources>
