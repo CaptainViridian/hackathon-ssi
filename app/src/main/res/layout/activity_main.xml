@@ -8,18 +8,6 @@
     android:id="@+id/background"
     tools:context="ssi.hackathon.diressom.MainActivity">
 
-    <Switch
-        android:id="@+id/switch5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="On/Off"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.499"
-        app:layout_constraintVertical_bias="0.901" />
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="317dp"
